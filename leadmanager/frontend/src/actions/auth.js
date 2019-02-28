@@ -18,7 +18,6 @@ export const loadUser = () => (dispatch, getState) => {
     //get token from state
     const token = getState().auth.token
 
-    // Headers
     const config = {
         headers: {
             'Content-Type': 'application/json'
