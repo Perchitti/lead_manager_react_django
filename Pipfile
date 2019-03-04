@@ -1,3 +1,4 @@
+from datadog import statsd
 
 [[source]]
 name = "pypi"
