@@ -2,5 +2,3 @@
 
 Python backend
 React/Redux frontend
-
-Needs updating
